@@ -36,7 +36,7 @@ $$
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.min.js"></script>
-<script src="assets/js/parabola-sketch.js"></script>
+<script src="../assets/js/parabola-sketch.js"></script>
 
 <!-- MathJax CDN -->
 <script>
