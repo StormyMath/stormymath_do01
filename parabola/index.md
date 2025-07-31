@@ -15,7 +15,7 @@ title: 放物線の教材
 
 ## 🖼 2. 放物線のグラフ画像
 
-![グラフの例](assets/img/graph-example.png)
+![グラフの例](../assets/img/graph-example.png)
 
 ---
 
